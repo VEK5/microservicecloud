@@ -1,0 +1,4 @@
+com\vek\entities\Dept.class
+com\vek\service\DeptClientService.class
+com\vek\service\DeptClientServiceFallbackFactory$1.class
+com\vek\service\DeptClientServiceFallbackFactory.class
